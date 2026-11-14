@@ -1,0 +1,6 @@
+{
+  "name": "Michich Mods Hub",
+  "description": "Dedicated Android hub for Minecraft Java & Bedrock Mods, Modpacks, Resource Packs, Shaders, and Skins powered by Modrinth, MCPEDL, and an interactive Skin Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Michich Mods Hub</string>
+    <string name="nav_mods">Mods</string>
+    <string name="nav_modpacks">Modpacks</string>
+    <string name="nav_resource_packs">Resources</string>
+    <string name="nav_shaders">Shaders</string>
+    <string name="nav_skins">Skins</string>
+    <string name="edition_java">Java</string>
+    <string name="edition_bedrock">Bedrock</string>
+    <string name="vault_title">Downloads &amp; Vault</string>
+    <string name="open_mcpedl">Browse MCPEDL</string>
+</resources>
